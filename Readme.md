@@ -9,3 +9,5 @@ we authenticate below urls to access the gphotos
  https://www.googleapis.com/auth/photoslibrary,
 https://www.googleapis.com/auth/photoslibrary.sharing
  ```
+
+- followed youtube video - "https://www.youtube.com/watch?v=vbHp_FiJXqA&t=598s"
